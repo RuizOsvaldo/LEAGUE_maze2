@@ -1,0 +1,47 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/+/v7k9NAPD/Lv/k/v8A8O/yv9EuQv//4vL+3yRC/y/i8k7dJFIPL+LyTt0kUg//4vL+3yRC//Dv8r/RLkL/8P8u/+T+/wAA/+7v7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Guy"
+    },
+    "image2": {
+        "data": "hwQHAAcAAAAAMwMAMDMzADMzMwMzMzMDMzMzAzAzMwAAMwMA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "obstacle"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAACwvQAAAAAAAMDNAAAAAAAAwMUAAAAAAADc1QwAAACwzF1VzbwAANtdVVVV3QsAsMxdVc28AAAAANzVDAAAAAAAwMUAAAAAAADAzQAAAAAAALC9AAAAAAAAAAsAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "key"
+    },
+    "image4": {
+        "data": "hwQHAAcAAAAAIgIAICIiACIiIgIiIiICIiIiAiAiIgAAIgIA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Door"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/+/v7k9NAPD/Lv/k/v8A8O/yv9EuQv//4vL+3yRC/y/i8k7dJFIPL+LyTt0kUg//4vL+3yRC//Dv8r/RLkL/8P8u/+T+/wAA/+7v7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "guy"
+    },
+    "image6": {
+        "data": "hwQQABAAAAC7u7u7u7u7u8u7u7u7u7u8u05ERN1EvLvrRERERE3Eu0tERERE1MS7S0RERETUxLtLRERERNTEu0tERERE1MS7S0RERETUxLtLRERERNTEu0tERERE1MS7S0RERETUxLvrRERERE3Eu7tORETdRLy7y7u7u7u7u7y7u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "door"
+    },
+    "image7": {
+        "data": "hwQHAAcAAAAAVQUAUHdXAHV3dwV1d3cFdXd3BVB3VwAAVQUA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "coin"
+    },
+    "image8": {
+        "data": "hwQHAAcAAAAAMwMAMDMzADMzMwMzMzMDMzMzAzAzMwAAMwMA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Obstacle"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
